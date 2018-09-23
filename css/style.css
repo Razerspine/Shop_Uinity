@@ -634,7 +634,7 @@ form button {
 }
 
 .categories_select i {
-    position: absolute;
+    position: relative;
     right: 15px;
     top: 2px;
     color: #000000;
